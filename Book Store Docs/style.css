@@ -1,0 +1,126 @@
+.container {
+       width: 1024px;
+      margin-left: auto;
+       margin-right: auto;
+   }
+
+  header {
+      /* width: 1024px; */
+     /* height: 100px; */
+      /* background-color: red; */
+      /* margin-left: auto;
+        margin-right: auto; */ 
+     text-align: center;
+     padding-top: 10px;
+     padding-bottom: 10px;
+  }
+  a {
+      text-decoration: none;
+      color: white;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+
+  .changa-one-regular {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+nav {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-size: 22px;
+  font-style: normal;
+}
+
+ nav {     
+   /* width: 1024px; */
+     /* height: 80px; */
+      background-color: rgba(27, 27, 127, 0.504);
+      /* margin-left: auto;
+      margin-right: auto; */
+     text-align: center;
+     padding-top: 20px;
+        padding-bottom: 20px;
+}
+
+img {
+    height: 100px;
+}
+
+main {
+    /* width: 1024px; */
+    /* height: 400px; */
+    background-color: gray;
+    /* margin-left: auto;
+       margin-right: auto; */
+    text-align: center;
+    padding: 100px;
+    background-color: white;
+    padding-bottom: auto;
+    background-color: rgba(127, 127, 128, 0.504);
+    font-family: Tahoma;
+}
+
+main p {
+  font-size: 18px;
+}
+
+.rent-a-book {
+  font-family: "Changa One", sans-serif;
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 30px;
+  position: relative;
+  top: 50px;
+  text-decoration:  underline;
+  color: rgb(25, 25, 198);
+
+}
+
+footer {
+    /* width: 1024px; 
+    height: 100px; */
+    background-color: black;
+    /* margin-left: auto;
+       margin-right: auto; */
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: rgba(27, 27, 127, 0.504);
+}
+
+
+h1 {
+  font-size: 45px;
+}
+
+p {
+  margin: 0px;
+}
+
+body {
+  background-color: grey;
+  background-image: url('./Images/pexels-joshsorenson-990432.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.ifa {
+  text-align: center;
+}
+
+
+.footer {
+  font-family: "Changa One", sans-serif;
+  font-style: normal;
+  font-weight: 400px;
+  font-size: 23px;
+  top: 50px;
+  text-decoration:  underline;
+  color: whitesmoke;
+}
